@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+ultralytics
+torch
+torchvision
+openai-whisper
+opencv-python-headless
+python-multipart
+requests
+opencv-python
+numpy
+Pillow
+runpod
+

@@ -1,17 +1,22 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-
 fastapi
 uvicorn[standard]
+ultralytics
+torch
+torchvision
+openai-whisper
+opencv-python-headless
 python-multipart
 requests
 imageio-ffmpeg
-
-torch
-torchvision
-ultralytics
+opencv-python
 chromadb
-
-opencv-python-headless
 numpy<2
+Pillow
 
-openai-whisper
+
+
+
+
+
+
+
